@@ -1,3 +1,4 @@
 # Repositório para estudos
+<hr>
 
-<h2>GRID com html e css. </h2>
+<h3> GRID com html e css. </h3>
